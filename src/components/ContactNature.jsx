@@ -1,5 +1,4 @@
-import Header from "./common/header";
-
+import Header from "./common/Header";
 const ContactNature = () => {
   return (
     <>

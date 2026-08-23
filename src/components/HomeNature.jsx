@@ -1,6 +1,5 @@
 import { ourservices } from "../utils/helper"
-import Header from "./common/header";
-
+import Header from "./common/Header";
 const HomeNature = () => {
     return (
         <>

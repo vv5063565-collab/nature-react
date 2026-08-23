@@ -1,6 +1,5 @@
 import { servicepage } from "../utils/helper";
-import Header from "./common/header";
-
+import Header from "./common/Header";
 const ServicesNature = () => {
   return (
     <>
